@@ -2,7 +2,6 @@
 
 
 ### Android进阶必备书籍
-   * [Android Studio New Media Fundamentals.pdf](https://github.com/liuzhanta/Android-Developer-Books/blob/master/Books_Android/Android%20Studio%20New%20Media%20Fundamentals.pdf)
    * [Android 高新之路[修改].pdf](https://github.com/liuzhanta/Android-Developer-Books/blob/master/Books_Android/Android%20%E9%AB%98%E6%96%B0%E4%B9%8B%E8%B7%AF%5B%E4%BF%AE%E6%94%B9%5D.pdf)
    * [Android应用框架原理与程序设计36技.pdf](https://github.com/liuzhanta/Android-Developer-Books/blob/master/Books_Android/Android%E5%BA%94%E7%94%A8%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A136%E6%8A%80.pdf)
    * [Android高薪之路：Android程序员面试宝典.pdf](https://github.com/liuzhanta/Android-Developer-Books/blob/master/Books_Android/Android%E9%AB%98%E8%96%AA%E4%B9%8B%E8%B7%AF%EF%BC%9AAndroid%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8.pdf)
