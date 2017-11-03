@@ -1,6 +1,9 @@
 # Android-Developer-Books
 
 
+### Kotlin必备书籍
+   * [Kotlin-for-android-developers.pdf](https://github.com/liuzhanta/Android-Developer-Books/blob/master/Books_Kotlin/kotlin-for-android-developers-zh.pdf)
+
 ### Android进阶必备书籍
    * [Android 高新之路[修改].pdf](https://github.com/liuzhanta/Android-Developer-Books/blob/master/Books_Android/Android%20%E9%AB%98%E6%96%B0%E4%B9%8B%E8%B7%AF%5B%E4%BF%AE%E6%94%B9%5D.pdf)
    * [Android应用框架原理与程序设计36技.pdf](https://github.com/liuzhanta/Android-Developer-Books/blob/master/Books_Android/Android%E5%BA%94%E7%94%A8%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A136%E6%8A%80.pdf)
