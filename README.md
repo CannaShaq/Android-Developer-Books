@@ -3,7 +3,7 @@
 
 ### Kotlin必备书籍
    * [Kotlin-for-android-developers.pdf](https://github.com/liuzhanta/Android-Developer-Books/blob/master/Books_Kotlin/kotlin-for-android-developers-zh.pdf)
-   * [Kotlin-In-Action.pdf](https://github.com/liuzhanta/Android-Developer-Books/blob/master/Books_Kotlin/Kotlin%20in%20Action%20.pdf)
+   * [Kotlin-In-Action.pdf](https://github.com/liuzhanta/Android-Developer-Books/blob/master/Books_Kotlin/Kotlin%20in%20Action%20.pdf)
    
 
 ### Android进阶必备书籍
